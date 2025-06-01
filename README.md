@@ -18,12 +18,12 @@ Développeur, en apprentissage a l'école 42 de Paris
 
 ---
 
-**✨ Découvrez mon portfolio en ligne :** [Visitez mon site](https://nikostano.github.io/portfolio/)
+**✨ Découvrez mon portfolio en ligne :** [Portfolio](https://nikostano.github.io/portfolio/)
 
 ---
 
 🚀 **Mes compétences principales :**
-- Langages : C, Python
+- Langages : C, Python(base), Shell scripting (Bash)
 - Outils : Git, Vim, VS Code
 
 🤝 N'hésitez pas à me contacter ou à explorer mes dépôts pour voir mes projets !
