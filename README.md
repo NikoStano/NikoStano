@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![nistanoj's 42 stats](https://badge.mediaplus.ma/greenbinary/nistanoj)](https://github.com/oakoudad/badge42)
+
 ### 👋 Salut, je suis Nikola Stanojevic !
 
 Développeur, en apprentissage a l'école 42 de Paris
