@@ -12,19 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![nistanoj's 42 stats](https://badge.mediaplus.ma/greenbinary/nistanoj?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-### 👋 Salut, je suis Nikola Stanojevic !
+[![Nikola 42 stats](https://badge.mediaplus.ma/greenbinary/nistanoj?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+### 👋 Hello, I'm Nikola Stanojevic !
 
-Développeur, en apprentissage a l'école 42 de Paris
-
----
-
-**✨ Découvrez mon portfolio en ligne :** [Portfolio](https://nikostano.github.io/portfolio/)
+Student, learner @[**42 Paris**](https://42.fr/)
 
 ---
 
-🚀 **Mes compétences principales :**
-- Langages : C, Python(base), Shell scripting (Bash)
-- Outils : Git, Vim, VS Code
+**✨ You can easy check my [Portfolio](https://nikostano.github.io/portfolio/) online **
 
-🤝 N'hésitez pas à me contacter ou à explorer mes dépôts pour voir mes projets !
+---
+
+🚀 **My principals skills :**
+- Langages : C, Python(basic), Shell scripting (Bash)
+- Tools : Git, Vim, VS Code
+
+🤝 Don't wait and ask about me !
