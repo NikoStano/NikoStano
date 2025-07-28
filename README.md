@@ -19,7 +19,7 @@ Student, learner @[**42 Paris**](https://42.fr/)
 
 ---
 
-**✨ You can easy check my [Portfolio](https://nikostano.github.io/portfolio/) online **
+**✨ You can easy check my **[Portfolio](https://nikostano.github.io/portfolio/)** online **
 
 ---
 
