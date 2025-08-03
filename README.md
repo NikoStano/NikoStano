@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![nistanoj's 42 stats](https://badge.mediaplus.ma/darkblue/nistanoj?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![nistanoj's 42 stats](https://badge.mediaplus.ma/kettlebells/nistanoj?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ### 👋 Hello, I'm Nikola Stanojevic !
 
 Student, learner @[**42 Paris**](https://42.fr/)
