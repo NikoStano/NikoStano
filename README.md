@@ -27,4 +27,4 @@ Student @[**42 Paris**](https://42.fr/)
 - Langages : C, Python(basic), Shell scripting (Bash)
 - Tools : Git, Vim, VS Code
 
-🤝 Don't wait and ask about me !
+🤝 Don't wait and ask me !
