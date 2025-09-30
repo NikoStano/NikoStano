@@ -34,4 +34,5 @@ Student @[**42 Paris**](https://42.fr/)
 - Tools : Git, Vim, VS Code
 
 🤝 Don't wait and ask me !
+
 [![GitHub followers](https://img.shields.io/github/followers/NikoStano?label=Suivre&style=social)](https://github.com/NikoStano)
