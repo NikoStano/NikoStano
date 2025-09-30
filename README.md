@@ -28,7 +28,7 @@ Student @[**42 Paris**](https://42.fr/)
 🚀 **My principals skills :**
 - Langages : C, Shell scripting (Bash)
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NikoStano&layout=compact&hide_border=true&title_color=2f80ed&text_color=333&bg_color=ffffff" alt="Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoStano&layout=compact&hide_border=true&title_color=2f80ed&text_color=333&bg_color=ffffff%22%20alt=%22Top%20Langages)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoStano&layout=compact&hide_border=true&title_color=2f80ed&text_color=333&bg_color=ffffff%22%20alt=%22Top%20Langages" />
 </div>
 
 - Tools : Git, Vim, VS Code
