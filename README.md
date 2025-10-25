@@ -44,7 +44,7 @@ Student at [**42 Paris**](https://42.fr/), passionate about programming and prob
 - Linux/Unix
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoStano&layout=compact&hide_border=true&title_color=2f80ed&text_color=333&bg_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoStano&layout=compact&hide_border=true&title_color=2f80ed&text_color=333&bg_color=ffffff%22%20alt=%22Top%20Languages" />
 </div>
 
 ---
