@@ -27,7 +27,7 @@ Student at [**42 Paris**](https://42.fr/), passionate about programming and prob
 | **2** | [**Push Swap**](https://github.com/NikoStano/push_swap) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4394481) |
 | **3** | **Exam Rank 03** | 🚧 |
 | **3** | **Minishell** | 🚧 |
-| **3** | **Philosophers** | 🚧 |
+| **3** | [**Philosophers**](https://github.com/NikoStano/philo) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594510) |
 
 ---
 
