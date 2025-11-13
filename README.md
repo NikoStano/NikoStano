@@ -59,7 +59,6 @@ Check out my **[Portfolio](https://nikostano.github.io/portfolio/)** to see more
 
 Feel free to reach out if you want to collaborate on a project or just chat about coding!
 
-- **GitHub**: [@NikoStano](https://github.com/NikoStano)
 - **Email**: nistanoj@student.42.fr
 
 ---
