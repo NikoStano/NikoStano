@@ -1,9 +1,9 @@
-# 👋 Hello !
+# Hello !
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amn93p&label=Vues%20du%20profil&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/NikoStano?label=Follow&style=social)](https://github.com/NikoStano)
 
-## 🎓 About Me
+## About Me
 
 Student at [**42 Paris**](https://42.fr/), passionate about programming and problem-solving. Currently diving deep into low-level programming and algorithms.
 
@@ -11,7 +11,7 @@ Student at [**42 Paris**](https://42.fr/), passionate about programming and prob
 
 ---
 
-## 🚀 42 Projects
+## 42 Projects
 
 ![42 Project](https://img.shields.io/badge/42-Project-blue?style=for-the-badge)
 
@@ -31,7 +31,7 @@ Student at [**42 Paris**](https://42.fr/), passionate about programming and prob
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 - C
@@ -43,26 +43,12 @@ Student at [**42 Paris**](https://42.fr/), passionate about programming and prob
 - VS Code
 - Linux/Unix
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoStano&layout=compact&hide_border=true&title_color=2f80ed&text_color=333&bg_color=ffffff%22%20alt=%22Top%20Languages" />
-</div>
+![Aperçu du profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikoStano&theme=github_dark)
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 Check out my **[Portfolio](https://nikostano.github.io/portfolio/)** to see more of my work!
 
 ---
-
-## 📫 Let's Connect
-
-Feel free to reach out if you want to collaborate on a project or just chat about coding!
-
-- **Email**: nistanoj@student.42.fr
-
----
-
-<div align="center">
-  <i>⭐️ Don't forget to star my repositories if you find them useful!</i>
-</div>
