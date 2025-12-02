@@ -1,10 +1,10 @@
 ![42Paris student](https://img.shields.io/badge/42paris-student-blue?style=for-the-badge)
 
-[![nistanoj's 42 stats](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/stats?cursusId=21&coalitionId=46)](https://github.com/Nimon77/badge42)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amn93p&label=Vues%20du%20profil&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/NikoStano?label=Follow&style=social)](https://github.com/NikoStano)
 
+[![nistanoj's 42 stats](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/stats?cursusId=21&coalitionId=46)](https://github.com/Nimon77/badge42)
 
 ---
 
@@ -45,5 +45,3 @@
 ![Portfolio >](https://img.shields.io/badge/portfolio->-blue?style=for-the-badge)
 
 Check out my **[Portfolio](https://nikostano.github.io/portfolio/)** to see more of my work!
-
----
