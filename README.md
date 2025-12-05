@@ -44,4 +44,4 @@
 
 ![Portfolio >](https://img.shields.io/badge/portfolio->-blue?style=for-the-badge)
 
-Check out my **[Portfolio](https://nikostano.github.io/portfolio/)** to see more of my work!
+Check out my **[Portfolio](https://nikostano.github.io/portfolio-3d/)** to see more of my work!
