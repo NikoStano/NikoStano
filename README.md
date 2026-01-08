@@ -20,9 +20,13 @@
 | **2** | [**FdF**](https://github.com/NikoStano/FdF) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4432238) |
 | **2** | [**Minitalk**](https://github.com/NikoStano/minitalk) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4399901) |
 | **2** | [**Push Swap**](https://github.com/NikoStano/push_swap) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4394481) |
-| **3** | **Exam Rank 03** | 🚧 |
+| **3** | **Exam Rank 03** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594505) |
 | **3** | [**Minishell**](https://github.com/NikoStano/minishell) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594507) |
 | **3** | [**Philosophers**](https://github.com/NikoStano/philo) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594510) |
+| **4** | **Exam Rank 04** | 🚧 |
+| **4** | **CUB3D** | 🚧 |
+| **4** | **NetPractice** | 🚧 |
+| **4** | **CPP00** | 🚧 |
 
 ---
 
