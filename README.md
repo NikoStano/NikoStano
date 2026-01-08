@@ -23,10 +23,10 @@
 | **3** | **Exam Rank 03** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594505) |
 | **3** | [**Minishell**](https://github.com/NikoStano/minishell) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594507) |
 | **3** | [**Philosophers**](https://github.com/NikoStano/philo) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594510) |
-| **4** | **Exam Rank 04** | 🚧 |
-| **4** | **CUB3D** | 🚧 |
-| **4** | **NetPractice** | 🚧 |
-| **4** | **CPP00** | 🚧 |
+| **4** | **Exam Rank 04** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716945) |
+| **4** | **CUB3D** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716945) |
+| **4** | **NetPractice** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716947) |
+| **4** | **CPP Modules(00-04)** <br> └─ [CPP 00](lien) <br> └─ [CPP 01](lien) <br> └─ [CPP 02](lien) <br> └─ [CPP 03](lien) <br> └─ [CPP 04](lien) | <br>  ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716946) <br>  ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716946) <br>  ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716946) <br>  ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716946) <br>  ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716946) |
 
 ---
 
