@@ -35,6 +35,8 @@
 **Languages**
 - C
 - Shell Scripting (Bash)
+- Makefile
+- C++
 
 **Tools & Environment**
 - Git & GitHub
