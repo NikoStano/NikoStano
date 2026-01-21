@@ -12,18 +12,18 @@
 
 | Milestone | Project | Grade |
 |-----------|---------|-------|
-| **0** | [**Libft**](https://github.com/NikoStano/libft) | **120** |
-| **1** | **ft_printf** | **100** |
-| **1** | **Get Next Line** | **112** |
-| **1** | **Born2beroot** | **125** |
-| **2** | **Exam Rank 02** | **100** |
-| **2** | [**FdF**](https://github.com/NikoStano/FdF) | **120** |
-| **2** | [**Minitalk**](https://github.com/NikoStano/minitalk) | **125** |
-| **2** | **Push Swap** | **104** |
-| **3** | **Exam Rank 03** | **100** |
-| **3** | **Minishell** | **115** |
-| **3** | **Philosophers** | **100** |
-| **4** | **Exam Rank 04** | **100** |
+| **0** | [**Libft**](https://github.com/NikoStano/libft) | ![100 120](https://img.shields.io/badge/100-120-green?style=for-the-badge) |
+| **1** | **ft_printf** | ![100 100](https://img.shields.io/badge/100-100-green?style=for-the-badge) |
+| **1** | **Get Next Line** | ![100 112](https://img.shields.io/badge/100-112-green?style=for-the-badge) |
+| **1** | **Born2beroot** | ![100 125](https://img.shields.io/badge/100-125-green?style=for-the-badge) |
+| **2** | **Exam Rank 02** | ![100 100](https://img.shields.io/badge/100-100-green?style=for-the-badge) |
+| **2** | [**FdF**](https://github.com/NikoStano/FdF) | ![100 120](https://img.shields.io/badge/100-120-green?style=for-the-badge) |
+| **2** | [**Minitalk**](https://github.com/NikoStano/minitalk) | ![100 125](https://img.shields.io/badge/100-125-green?style=for-the-badge) |
+| **2** | **Push Swap** | ![100 104](https://img.shields.io/badge/100-104-green?style=for-the-badge) |
+| **3** | **Exam Rank 03** | ![100 100](https://img.shields.io/badge/100-100-green?style=for-the-badge) |
+| **3** | **Minishell** | ![100 115](https://img.shields.io/badge/100-115-green?style=for-the-badge) |
+| **3** | **Philosophers** | ![100 100](https://img.shields.io/badge/100-100-green?style=for-the-badge)|
+| **4** | **Exam Rank 04** | ![100 100](https://img.shields.io/badge/100-100-green?style=for-the-badge) |
 | **4** | **CUB3D** | 🚧 |
 | **4** | **NetPractice** | 🚧 |
 | **4** | **CPP Modules(00-04)** <br> └─ CPP 00 <br> └─ CPP 01 <br> └─ CPP 02 <br> └─ CPP 03 <br> └─ CPP 04 | <br>  🚧 <br>  🚧 <br>  🚧 <br>  🚧 <br>  🚧 |
