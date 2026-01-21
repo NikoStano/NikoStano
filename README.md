@@ -14,10 +14,10 @@
 |-----------|---------|-------|
 | ![0](https://img.shields.io/badge/0-blue?style=for-the-badge) | ![Libft](https://img.shields.io/badge/libft-cyan?style=for-the-badge) | ![120](https://img.shields.io/badge/120-green?style=for-the-badge) |
 | ![1](https://img.shields.io/badge/1-blue?style=for-the-badge) | ![printf](https://img.shields.io/badge/ft_printf-cyan?style=for-the-badge) | ![100](https://img.shields.io/badge/100-green?style=for-the-badge) |
-| ![1](https://img.shields.io/badge/1-blue?style=for-the-badge) | ![gnl](https://img.shields.io/badge/get_next_line-cyan?style=for-the-badge) | ![112](https://img.shields.io/badge/112-green?style=for-the-badge) |
-| ![1](https://img.shields.io/badge/1-blue?style=for-the-badge) | ![b2b](https://img.shields.io/badge/Born2beroot-cyan?style=for-the-badge) | ![125](https://img.shields.io/badge/125-green?style=for-the-badge) |
+| ![1](https://img.shields.io/badge/1-blue?style=for-the-badge) | ![gnl](https://img.shields.io/badge/get_next_line_(gnl)-cyan?style=for-the-badge) | ![112](https://img.shields.io/badge/112-green?style=for-the-badge) |
+| ![1](https://img.shields.io/badge/1-blue?style=for-the-badge) | ![b2b](https://img.shields.io/badge/Born2beroot_(B2b)-cyan?style=for-the-badge) | ![125](https://img.shields.io/badge/125-green?style=for-the-badge) |
 | ![2](https://img.shields.io/badge/2-blue?style=for-the-badge) | ![ex2](https://img.shields.io/badge/Exam_rank_2-cyan?style=for-the-badge) | ![100](https://img.shields.io/badge/100-green?style=for-the-badge) |
-| ![2](https://img.shields.io/badge/2-blue?style=for-the-badge) | ![FDF](https://img.shields.io/badge/Fil_de_fer-cyan?style=for-the-badge) | ![120](https://img.shields.io/badge/120-green?style=for-the-badge) |
+| ![2](https://img.shields.io/badge/2-blue?style=for-the-badge) | ![FDF](https://img.shields.io/badge/Fil_de_fer_(Fdf)-cyan?style=for-the-badge) | ![120](https://img.shields.io/badge/120-green?style=for-the-badge) |
 | ![2](https://img.shields.io/badge/2-blue?style=for-the-badge) | ![minitalk](https://img.shields.io/badge/minitalk-cyan?style=for-the-badge) | ![125](https://img.shields.io/badge/125-green?style=for-the-badge) |
 | ![2](https://img.shields.io/badge/2-blue?style=for-the-badge) | ![push swap](https://img.shields.io/badge/push_swap-cyan?style=for-the-badge) | ![104](https://img.shields.io/badge/104-green?style=for-the-badge) |
 | ![3](https://img.shields.io/badge/3-blue?style=for-the-badge) | ![ex3](https://img.shields.io/badge/exam_rank_3-cyan?style=for-the-badge) | ![100](https://img.shields.io/badge/100-green?style=for-the-badge) |
@@ -26,9 +26,9 @@
 | ![4](https://img.shields.io/badge/4-blue?style=for-the-badge) | ![ex4](https://img.shields.io/badge/exam_rank_4-cyan?style=for-the-badge) | ![100](https://img.shields.io/badge/100-green?style=for-the-badge) |
 | ![4](https://img.shields.io/badge/4-yellow?style=for-the-badge) | ![cub](https://img.shields.io/badge/cub3d-yellow?style=for-the-badge) | 🚧 |
 | ![4](https://img.shields.io/badge/4-yellow?style=for-the-badge) | ![netpractice](https://img.shields.io/badge/netpractice-yellow?style=for-the-badge) | 🚧 |
-| ![4](https://img.shields.io/badge/4-grey?style=for-the-badge) | ![cpp04](https://img.shields.io/badge/CPP_Modules(00-04)-grey?style=for-the-badge) <br> └─ CPP 00 <br> └─ CPP 01 <br> └─ CPP 02 <br> └─ CPP 03 <br> └─ CPP 04 | <br>  - <br>  - <br>  - <br>  - <br>  - |
+| ![4](https://img.shields.io/badge/4-grey?style=for-the-badge) | ![cpp04](https://img.shields.io/badge/CPP_Modules(00_04)-grey?style=for-the-badge) <br> └─ CPP 00 <br> └─ CPP 01 <br> └─ CPP 02 <br> └─ CPP 03 <br> └─ CPP 04 | <br>  - <br>  - <br>  - <br>  - <br>  - |
 | ![5](https://img.shields.io/badge/5-grey?style=for-the-badge) | ![ex5](https://img.shields.io/badge/exam_rank_5-grey?style=for-the-badge) | - |
-| ![5](https://img.shields.io/badge/5-grey?style=for-the-badge) | ![cpp59](https://img.shields.io/badge/CPP_Modules(05-09)-grey?style=for-the-badge) <br> └─ CPP 05 <br> └─ CPP 06 <br> └─ CPP 07 <br> └─ CPP 08 <br> └─ CPP 09 | <br>  - <br>  - <br>  - <br>  - <br>  - |
+| ![5](https://img.shields.io/badge/5-grey?style=for-the-badge) | ![cpp59](https://img.shields.io/badge/CPP_Modules(05_09)-grey?style=for-the-badge) <br> └─ CPP 05 <br> └─ CPP 06 <br> └─ CPP 07 <br> └─ CPP 08 <br> └─ CPP 09 | <br>  - <br>  - <br>  - <br>  - <br>  - |
 | ![5](https://img.shields.io/badge/5-grey?style=for-the-badge) | ![inception](https://img.shields.io/badge/inception-grey?style=for-the-badge) | - |
 | ![5](https://img.shields.io/badge/5-grey?style=for-the-badge) | ![webserv](https://img.shields.io/badge/webserv-grey?style=for-the-badge) | - |
 | ![6](https://img.shields.io/badge/6-grey?style=for-the-badge) | ![ex6](https://img.shields.io/badge/exam_rank_6-grey?style=for-the-badge) | - |
