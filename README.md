@@ -12,18 +12,18 @@
 
 | Milestone | Project | Grade |
 |-----------|---------|-------|
-| **0** | [**Libft**](https://github.com/NikoStano/libft) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4270267) |
-| **1** | **ft_printf** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4275687) |
-| **1** | **Get Next Line** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4275688) |
-| **1** | **Born2beroot** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4275686) |
-| **2** | **Exam Rank 02** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4393114) |
-| **2** | [**FdF**](https://github.com/NikoStano/FdF) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4432238) |
-| **2** | [**Minitalk**](https://github.com/NikoStano/minitalk) | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4399901) |
-| **2** | **Push Swap** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4394481) |
-| **3** | **Exam Rank 03** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594505) |
-| **3** | **Minishell** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594507) |
-| **3** | **Philosophers** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4594510) |
-| **4** | **Exam Rank 04** | ![](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/project/4716945) |
+| **0** | [**Libft**](https://github.com/NikoStano/libft) | **120** |
+| **1** | **ft_printf** | **100** |
+| **1** | **Get Next Line** | **112** |
+| **1** | **Born2beroot** | **125** |
+| **2** | **Exam Rank 02** | **100** |
+| **2** | [**FdF**](https://github.com/NikoStano/FdF) | **120** |
+| **2** | [**Minitalk**](https://github.com/NikoStano/minitalk) | **125** |
+| **2** | **Push Swap** | **104** |
+| **3** | **Exam Rank 03** | **100** |
+| **3** | **Minishell** | **115** |
+| **3** | **Philosophers** | **100** |
+| **4** | **Exam Rank 04** | **100** |
 | **4** | **CUB3D** | 🚧 |
 | **4** | **NetPractice** | 🚧 |
 | **4** | **CPP Modules(00-04)** <br> └─ CPP 00 <br> └─ CPP 01 <br> └─ CPP 02 <br> └─ CPP 03 <br> └─ CPP 04 | <br>  🚧 <br>  🚧 <br>  🚧 <br>  🚧 <br>  🚧 |
