@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=amn93p&label=Vues%20du%20profil&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/NikoStano?label=Follow&style=social)](https://github.com/NikoStano)
 
-[![nistanoj's 42 stats](https://badge.nimon.fr/api/v2/cmgjygisn1482501pa9h6l9sg4/stats?cursusId=21&coalitionId=46)](https://github.com/Nimon77/badge42)
+[![nistanoj's 42 stats](https://badge.mediaplus.ma/darkblue/nistanoj?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 
