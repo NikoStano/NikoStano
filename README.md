@@ -1,6 +1,4 @@
 ![42Paris student](https://img.shields.io/badge/42paris-student-blue?style=for-the-badge)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=amn93p&label=Vues%20du%20profil&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/NikoStano?label=Follow&style=social)](https://github.com/NikoStano)
 
@@ -43,7 +41,6 @@
 - C
 - Shell Scripting (Bash)
 - Makefile
-- C++
 
 **Tools & Environment**
 - Git & GitHub
@@ -51,7 +48,10 @@
 - VS Code
 - Linux/Unix
 
-![Aperçu du profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikoStano&theme=github_dark)
+---
+
+![Language Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikoStano&theme=prussian) ![Language repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikoStano&theme=prussian)
+![Aperçu du profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikoStano&theme=prussian)
 
 ---
 
