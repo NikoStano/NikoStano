@@ -1,5 +1,7 @@
+<div align="center">
+
 ![42Paris student](https://img.shields.io/badge/42paris-student-blue?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=amn93p&label=Vues%20du%20profil&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=NikoStano&label=Vues%20du%20profil&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/NikoStano?label=Follow&style=social)](https://github.com/NikoStano)
 
 [![nistanoj's 42 stats](https://badge.mediaplus.ma/darkblue/nistanoj?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
@@ -9,7 +11,7 @@
 ![42 Project](https://img.shields.io/badge/42-Project-blue?style=for-the-badge)
 
 | ![Milestone](https://img.shields.io/badge/Milestone-grey?style=for-the-badge) | ![Project](https://img.shields.io/badge/Project-grey?style=for-the-badge) | ![Grade](https://img.shields.io/badge/Grade-grey?style=for-the-badge) |
-|-----------|---------|-------|
+| :---: | :---: | :---: |
 | ![0](https://img.shields.io/badge/0-blue?style=for-the-badge) | ![Libft](https://img.shields.io/badge/libft-cyan?style=for-the-badge) | ![120](https://img.shields.io/badge/120-green?style=for-the-badge) |
 | ![1](https://img.shields.io/badge/1-blue?style=for-the-badge) | ![printf](https://img.shields.io/badge/ft_printf-cyan?style=for-the-badge) | ![100](https://img.shields.io/badge/100-green?style=for-the-badge) |
 | ![1](https://img.shields.io/badge/1-blue?style=for-the-badge) | ![gnl](https://img.shields.io/badge/get_next_line_(gnl)-cyan?style=for-the-badge) | ![112](https://img.shields.io/badge/112-green?style=for-the-badge) |
