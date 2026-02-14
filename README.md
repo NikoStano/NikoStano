@@ -38,7 +38,7 @@
 ![Tech Stack](https://img.shields.io/badge/tech-stack-blue?style=for-the-badge)
 
 **Languages**
-- C
+- C/C++
 - Shell Scripting (Bash)
 - Makefile
 
