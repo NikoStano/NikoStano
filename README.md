@@ -4,6 +4,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NikoStano&label=Vues%20du%20profil&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/NikoStano?label=Follow&style=social)](https://github.com/NikoStano)
 
+# Bonjour, moi c'est Niko
+
+Etudiant a 42 Paris, base en Ile-de-France. Je travaille surtout sur des projets en C, C++, <br>
+Go et Python, avec un interet fort pour les outils systeme, le backend et les interfaces utiles.
+
 [![nistanoj's 42 stats](https://badge.mediaplus.ma/darkblue/nistanoj?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
@@ -35,21 +40,41 @@
 
 ### Tech Stack
 
+**Langages**
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend, API et applications**
+
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NetworkX](https://img.shields.io/badge/networkx-2C6CB0.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Frontend et desktop**
+
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Wails](https://img.shields.io/badge/wails-1D1D1D.svg?style=for-the-badge&logo=wails&logoColor=white)
+
+**Outils et environnement**
+
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-012456.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Makefile](https://img.shields.io/badge/makefile-%2300599C.svg?style=for-the-badge&logo=gnu-make&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
----
-
-![Language Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikoStano&theme=prussian)
-![Language repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikoStano&theme=prussian)
-![Aperçu du profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikoStano&theme=prussian)
 
 ---
 
