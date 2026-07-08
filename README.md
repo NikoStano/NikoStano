@@ -46,13 +46,11 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Php](https://img.shields.io/badge/php-3776AB.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-FCC624.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend, API et applications**
 
 ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![NetworkX](https://img.shields.io/badge/networkx-2C6CB0.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Outils et environnement**
@@ -60,10 +58,10 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-012456.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Makefile](https://img.shields.io/badge/makefile-%2300599C.svg?style=for-the-badge&logo=gnu-make&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
