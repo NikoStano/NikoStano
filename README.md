@@ -44,8 +44,8 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Php](https://img.shields.io/badge/php-3776AB.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-FCC624.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend, API et applications**
@@ -54,13 +54,6 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/networkx-2C6CB0.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Frontend et desktop**
-
-![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Wails](https://img.shields.io/badge/wails-1D1D1D.svg?style=for-the-badge&logo=wails&logoColor=white)
 
 **Outils et environnement**
 
@@ -78,10 +71,6 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 
 ---
 
-### Portfolio
+### Exp
 
-<a href="https://nikostano.github.io/portfolio-3d/">
-  <img src="https://img.shields.io/badge/Voir_mon_Portfolio_3D-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
+| 04/26 - in progress | Dev'Ops team | [MyAtlas](https://www.myatlas.com) |
