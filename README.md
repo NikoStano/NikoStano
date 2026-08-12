@@ -32,9 +32,10 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 | | ![netpractice](https://img.shields.io/badge/netpractice-cyan?style=for-the-badge) | ![100](https://img.shields.io/badge/100-2ea44f?style=for-the-badge) |
 | | ![cpp04](https://img.shields.io/badge/CPP_Modules(00_04)-cyan?style=for-the-badge) <br> └─ ![cpp0](https://img.shields.io/badge/CPP_00-cyan?style=for-the-badge) <br> └─ ![cpp0](https://img.shields.io/badge/CPP_01-cyan?style=for-the-badge) <br> └─ ![cpp2](https://img.shields.io/badge/CPP_02-cyan?style=for-the-badge) <br> └─ ![cpp3](https://img.shields.io/badge/CPP_03-cyan?style=for-the-badge) <br> └─ ![cpp4](https://img.shields.io/badge/CPP_04-cyan?style=for-the-badge) | <br> ![100](https://img.shields.io/badge/100-2ea44f?style=for-the-badge) <br> ![100](https://img.shields.io/badge/100-2ea44f?style=for-the-badge) <br> ![100](https://img.shields.io/badge/100-2ea44f?style=for-the-badge) <br> ![100](https://img.shields.io/badge/100-2ea44f?style=for-the-badge) <br> ![100](https://img.shields.io/badge/100-2ea44f?style=for-the-badge) |
 | ![Rank 5](https://img.shields.io/badge/Rank_5-yellow?style=for-the-badge) |  ![ft_irc](https://img.shields.io/badge/ft_irc-cyan?style=for-the-badge) | ![100](https://img.shields.io/badge/100-2ea44f?style=for-the-badge) |
-| | ![inception](https://img.shields.io/badge/inception-yellow?style=for-the-badge) | 🔚 |
-| | ![cpp04](https://img.shields.io/badge/CPP_Modules(05_09)-yellow?style=for-the-badge) <br> └─ CPP ![cpp5](https://img.shields.io/badge/CPP_05-yellow?style=for-the-badge) <br> └─ CPP ![cpp6](https://img.shields.io/badge/CPP_06-yellow?style=for-the-badge) <br> └─ CPP ![cpp7](https://img.shields.io/badge/CPP_07-yellow?style=for-the-badge) <br> └─ CPP ![cpp8](https://img.shields.io/badge/CPP_08-yellow?style=for-the-badge) <br> └─ CPP ![cpp9](https://img.shields.io/badge/CPP_09-yellow?style=for-the-badge) | <br> 🚧 <br> 🚧 <br> 🚧 <br> 🚧 <br> 🚧 |
+| | ![inception](https://img.shields.io/badge/inception-cyan?style=for-the-badge) | ![125](https://img.shields.io/badge/125-2ea44f?style=for-the-badge) |
+| | ![cpp04](https://img.shields.io/badge/CPP_Modules(05_09)-yellow?style=for-the-badge) <br> └─ CPP ![cpp5](https://img.shields.io/badge/CPP_05-yellow?style=for-the-badge) <br> └─ CPP ![cpp6](https://img.shields.io/badge/CPP_06-yellow?style=for-the-badge) <br> └─ CPP ![cpp7](https://img.shields.io/badge/CPP_07-yellow?style=for-the-badge) <br> └─ CPP ![cpp8](https://img.shields.io/badge/CPP_08-yellow?style=for-the-badge) <br> └─ CPP ![cpp9](https://img.shields.io/badge/CPP_09-yellow?style=for-the-badge) | <br> 🔚 <br> 🚧 <br> 🚧 <br> 🚧 <br> 🚧 |
 | ![Rank 6](https://img.shields.io/badge/Rank_6-grey?style=for-the-badge) | ![transcendance](https://img.shields.io/badge/transcendence-grey?style=for-the-badge) | - |
+| | ![Collaborative Resume](https://img.shields.io/badge/Collab_Resume-grey?style=for-the-badge) | - |
 
 ---
 
@@ -56,14 +57,14 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 **Outils et environnement**
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-012456.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-012456.svg?style=for-the-badge&logo=powershell&logoColor=white&v=1)
+![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows11&logoColor=white&v=1)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Makefile](https://img.shields.io/badge/makefile-%2300599C.svg?style=for-the-badge&logo=gnu-make&logoColor=white)
+![Makefile](https://img.shields.io/badge/makefile-%2300599C.svg?style=for-the-badge&logo=gnu&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&v=1)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 
