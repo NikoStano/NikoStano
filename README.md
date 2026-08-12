@@ -56,17 +56,16 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 
 **Outils et environnement**
 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-012456.svg?style=for-the-badge&logo=powershell&logoColor=white&v=1)
-![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows11&logoColor=white&v=1)
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Makefile](https://img.shields.io/badge/makefile-%2300599C.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-012456?style=for-the-badge&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&v=1)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
+![Makefile](https://img.shields.io/badge/makefile-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=vscodium&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-11AB00?style=for-the-badge&logo=vim&logoColor=white)
 
 ---
 
