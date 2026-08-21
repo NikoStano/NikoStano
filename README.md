@@ -92,4 +92,4 @@ Go et Python, avec un interet fort pour les outils systeme, le backend et les in
 
 ### Exp
 
-| 04/26 - in progress | Dev'Ops team | [MyAtlas](https://www.myatlas.com) |
+| 04/26 - 08/26 | Dev'Ops team | [MyAtlas](https://www.myatlas.com) |
