@@ -21,7 +21,6 @@ Happy to walk through any of them.
 | **minishell** | A POSIX shell in C — lexer, parser, pipes, redirections, heredocs, signals, builtins. | 115 |
 | **cub3d** | A raycasting engine in C, no game library. Texture mapping, DDA traversal, its own event loop. | 115 |
 | **ft_irc** | An RFC-1459 IRC server in C++98. Single-threaded, `poll`-driven, no `fork`. | 100 |
-| **webserv** | An HTTP server from scratch in C++98, in the spirit of NGINX — static sites, file uploads and CGI on a single non-blocking `poll()` loop. | — |
 | **inception** | A Docker stack built from scratch — NGINX, WordPress, MariaDB, one service per container, no ready-made images. | 125 |
 | **philosophers** | The dining philosophers problem with threads and mutexes, then again with processes and semaphores. | 100 |
 | **push_swap** | A sorting algorithm under a two-stack instruction set, optimised for operation count. | 104 |
@@ -46,6 +45,14 @@ Each CPP module and each rank exam counts as one project. Grades above 100
 include bonus work.
 
 </details>
+
+## Built on the side
+
+**webserv** — an HTTP server written from scratch in C++98, in the spirit of NGINX:
+static sites, file uploads and CGI on a single non-blocking `poll()` loop, laid out
+as Config / Server / HTTP / Network / CGI with its own configuration file and CGI
+scripts in both C++ and Python. Finished, never submitted for grading — so it counts
+for nothing in the figures above, which is rather the point of putting it here.
 
 ## Experience
 
