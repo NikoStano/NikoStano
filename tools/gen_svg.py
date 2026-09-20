@@ -27,7 +27,7 @@ GRADES = {
 TOTALS = {0: 1, 1: 3, 2: 4, 3: 3, 4: 8, 5: 8, 6: 3}
 CURRENT_RANK = 5
 IN_PROGRESS = "CPP09 \u00b7 ft_transcendence \u00b7 FT_Resume"
-SIDE_PROJECT = "In coming"
+SIDE_PROJECT = "Coming soon..."
 TAGLINE = "I build things that live close to the machine \u2014 shells, servers, renderers."
 STACK_LINE = "C · C++ · Go · Python · PHP · Docker · Linux"
 
