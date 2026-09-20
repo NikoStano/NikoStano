@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img"
+     aria-labelledby="t d">
+  <title id="t">Nikola &#8212; 42 Paris student, systems and backend developer</title>
+  <desc id="d">25 projects validated, average grade 106 out of 100, currently rank 5 of 6.</desc>
+
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <line x1="840" y1="48" x2="840" y2="232" stroke="#30363D" stroke-width="1" opacity="0.55"/>
+
+  <text x="56" y="68" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="3.4" fill="#8B949E">42 PARIS &#8212; &#206;LE-DE-FRANCE</text>
+
+  <text x="54" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="2"
+        fill="#E6EDF3">NIKOLA<tspan fill="#58A6FF">.</tspan></text>
+
+  <rect x="56" y="176" width="124" height="3" rx="1.5" fill="#58A6FF">
+    <animate attributeName="width" from="0" to="124" dur="0.8s" begin="0.2s" fill="freeze"/>
+  </rect>
+
+  <text x="56" y="214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17.5" fill="#8B949E">I build things that live close to the machine — shells, servers, renderers.</text>
+  <text x="56" y="240" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6E7681">C · C++ · Go · Python · PHP · Docker · Linux</text>
+
+  <g>
+    <text x="884" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2.2" fill="#8B949E">PROJECTS VALIDATED</text><text x="1144" y="108" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#E6EDF3">25</text>
+    <line x1="884" y1="130" x2="1144" y2="130" stroke="#30363D" stroke-width="1"/>
+    <text x="884" y="160" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2.2" fill="#8B949E">AVERAGE GRADE</text><text x="1144" y="164" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#E6EDF3">106</text>
+    <line x1="884" y1="186" x2="1144" y2="186" stroke="#30363D" stroke-width="1"/>
+    <text x="884" y="216" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2.2" fill="#8B949E">CURRENT RANK</text><text x="1144" y="220" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#E6EDF3">5 / 6</text>
+  </g>
+</svg>

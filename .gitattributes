@@ -1,0 +1,6 @@
+# The SVGs are produced by tools/gen_svg.py — never edit them by hand.
+assets/*.svg linguist-generated=true
+
+# Keep the generator out of the language statistics: this is a profile
+# repository, not a Python project.
+tools/* linguist-vendored
