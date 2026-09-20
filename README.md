@@ -8,7 +8,7 @@ no interface: a shell, an IRC server, a raycasting engine, a container stack.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cursus-dark.svg">
-  <img alt="42 cursus progress: ranks 0 to 4 complete, rank 5 at 6 of 8 projects" src="assets/cursus-light.svg">
+  <img alt="42 cursus progress: ranks 0 to 4 complete, rank 5 at 7 of 8 projects" src="assets/cursus-light.svg">
 </picture>
 
 ## Selected work

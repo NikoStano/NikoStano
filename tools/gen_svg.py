@@ -21,7 +21,7 @@ GRADES = {
     2: [120, 125, 104, 100],                     # fdf, minitalk, push_swap, Exam Rank 02
     3: [115, 100, 100],                          # minishell, philosophers, Exam Rank 03
     4: [115, 100] + [100] * 5 + [100],           # cub3d, netpractice, CPP00-04, Exam Rank 04
-    5: [100, 125] + [100] * 4,           # ft_irc, inception, CPP05-08
+    5: [100, 125] + [100] * 4 + [100],   # ft_irc, inception, CPP05-08, Exam Rank 05
 }
 # Projects per rank, exams included: rank 2 through 6 each carry one exam.
 TOTALS = {0: 1, 1: 3, 2: 4, 3: 3, 4: 8, 5: 8, 6: 3}
