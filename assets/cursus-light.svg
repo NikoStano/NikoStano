@@ -37,7 +37,7 @@
   <line x1="56" y1="204" x2="1144" y2="204" stroke="#D0D7DE" stroke-width="1"/>
 
   <text x="56" y="234" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2.2" fill="#656D76">IN PROGRESS</text>
-  <text x="56" y="262" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#1F2328">CPP09 · ft_transcendence · FT_Resume</text>
+  <text x="56" y="262" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#1F2328">CPP09 · ft_transcendence · ft_resume</text>
 
   <text x="1144" y="234" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2.2"
         fill="#656D76">ALSO BUILDING</text>
