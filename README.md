@@ -37,8 +37,8 @@ Happy to walk through any of them.
 | **2** | fdf · minitalk · push_swap · Exam Rank 02 | 120 · 125 · 104 · 100 |
 | **3** | minishell · philosophers · Exam Rank 03 | 115 · 100 · 100 |
 | **4** | cub3d · netpractice · CPP00–04 · Exam Rank 04 | 115 · 100 · 100 ×5 · 100 |
-| **5** | ft_irc · inception · CPP05–08 | 100 · 125 · 100 ×4 |
-| **5** | CPP09 · Exam Rank 05 | in progress |
+| **5** | ft_irc · inception · CPP05–08 · Exam Rank 05 | 100 · 125 · 100 ×4 · 100 |
+| **5** | CPP09 | in progress |
 | **6** | ft_transcendence · ft_resume · Exam Rank 06 | in progress |
 
 Each CPP module and each rank exam counts as one project. Grades above 100
